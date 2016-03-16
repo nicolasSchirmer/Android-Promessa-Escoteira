@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Promessa</string>
+
+    <string name="title">PROMESSA</string>
+
+    <string name="lobo">Ramo Lobo</string>
+    <string name="esc">Ramo Escoteiro</string>
+    <string name="sen">Ramo Sênior</string>
+    <string name="pio">Ramo Pioneiro</string>
+    <string name="adl">Escotista e Dirigente</string>
+    <string name="grp">G.E. JAPÃO 140/RS</string>
+
+    <string name="error">Erro na inicialização, tente novamente</string>
+</resources>
