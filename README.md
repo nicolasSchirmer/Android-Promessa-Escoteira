@@ -19,8 +19,8 @@ Estou organizando todo o andamento do projeto pelo trello, quem quiser dar uma o
 
 # Licença
 ```
-                     GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+ GNU GENERAL PUBLIC LICENSE
+ Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
