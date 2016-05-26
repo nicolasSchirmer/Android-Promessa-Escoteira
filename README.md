@@ -1,4 +1,4 @@
-# Android-Promessa-Escoteira
+# Promessa Escoteira
 Aplicativo sobre o período introdutório do movimento escoteiro
 
 * Lobinho
