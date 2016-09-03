@@ -8,7 +8,7 @@ Aplicativo sobre o período introdutório do movimento escoteiro
 * **Escotista**
 
 -------
->Projeto está sendo desenvolvido por mim, um pioneiro do [Grupo Escoteiro Japão 140/RS](https://fb.me/gejpao).
+>Projeto está sendo desenvolvido por mim, um pioneiro do [Grupo Escoteiro Japão 140/RS](https://gejapao.com.br/).
 
 >Quem quiser contribuir com esse projeto sinta-se à vontade
 
