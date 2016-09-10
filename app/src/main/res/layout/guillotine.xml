@@ -4,7 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/colorPrimary"
+    android:background="@color/colorPrimaryDark"
     android:orientation="vertical"
     android:id="@+id/gRel">
 
@@ -27,16 +27,60 @@
 
     <ImageView
         android:id="@+id/bg2"
-        android:scaleType="fitStart"
+        android:scaleType="centerCrop"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:src="@drawable/bg2"
-        android:layout_alignParentBottom="true"
+        android:contentDescription="@string/bgAc"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true" />
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:id="@+id/linear"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="@dimen/img_guillotine"
+            android:layout_height="80dp"
+            android:src="@drawable/grupo"
+            android:id="@+id/imageView2"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/sobreGeJapao"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:id="@+id/textView" />
+
+        <ImageView
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_width="@dimen/img_guillotine"
+            android:layout_height="80dp"
+            android:src="@drawable/git"
+            android:id="@+id/imageView3"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/github"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:id="@+id/textView2" />
+    </LinearLayout>
 
 
 </RelativeLayout>

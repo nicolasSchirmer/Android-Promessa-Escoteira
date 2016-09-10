@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#202b35</color>
-    <color name="colorPrimaryDark">#121e26</color>
+
+    <!-- colorprimary e colorprimarydark estão trocados -->
+    <color name="colorPrimary">#121e26</color>
+    <color name="colorPrimaryDark">#202b35</color>
 
     <color name="transparent">#00FFFFFF</color>
     <color name="blackFaded">#50000000</color>
     <color name="selectedItem">#35FFFFFF</color>
     <color name="black">#000000</color>
     <color name="whiteFaded">#b4ffffff</color>
-    <color name="white">#FFFFFF</color>
+    <color name="white">#e0f9ff</color>
+    <color name="whitePure">#FFFFFF</color>
 
     <color name="lobo">#e1e22f</color>
     <color name="esc">#507532</color>

@@ -1,14 +1,21 @@
 <resources>
-    <string name="app_name">Promessa</string>
+    <string name="app_name">Promessa Escoteira</string>
 
-    <string name="title">PROMESSA</string>
+    <!-- acesibilidade -->
+    <string name="loboAc">Ramo lobo</string>
+    <string name="escAc">Ramo escoteiro</string>
+    <string name="senAc">Ramo sênior</string>
+    <string name="pioAc">Ramo pioneiro</string>
+    <string name="adAc">Escotistas e dirigente</string>
+    <string name="uebAc">Escoteiros do brasil</string>
+    <string name="grupoAc">Grupo escoteiro japão</string>
+    <string name="gitAc">Github</string>
+    <string name="bgAc">Flor de liz plano de fundo</string>
+    <string name="hamAc">Menu</string>
 
-    <string name="lobo">Ramo Lobo</string>
-    <string name="esc">Ramo Escoteiro</string>
-    <string name="sen">Ramo Sênior</string>
-    <string name="pio">Ramo Pioneiro</string>
-    <string name="adl">Escotista e Dirigente</string>
-    <string name="grp">G.E. JAPÃO 140/RS</string>
+    <string name="titleMain">PROMESSA</string>
 
-    <string name="error">Erro na inicialização, tente novamente</string>
+    <string name="sobreGeJapao">Sobre nós</string>
+    <string name="github">Github</string>
+
 </resources>
